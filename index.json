@@ -11,7 +11,8 @@
         "imperial_defense_force": {"name": "Imperial Defence Force", "id": "imperial_defense_force", "url": "imperial_defense_force.json", "color": "#314821"},
         "loyal_marines": {"name": "Loyal Marines", "id": "loyal_marines", "url": "loyal_marines.json", "color": "#0d407f"},
         "battle_sisters": {"name": "Battle Sisters", "id": "battle_sisters", "url": "battle_sisters.json", "color": "#1b1e23"},
-        "orc_clans": {"name": "Orc Clans", "id": "orc_clans", "url": "orc_clans.json", "color": "#50974A"}
+        "orc_clans": {"name": "Orc Clans", "id": "orc_clans", "url": "orc_clans.json", "color": "#50974A"},
+        "dimensional_horrors": {"name": "Dimensional Horrors", "id": "dimensional_horrors", "url": "dimensional_horror.json", "color": "#90305d"}
     },
     "categories": {
         "core": {"name": "Core"},
